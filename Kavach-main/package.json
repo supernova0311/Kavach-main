@@ -11,7 +11,7 @@
     "Women",
     "Security"
   ],
-  "author": "Ayush Kumar",
+  "author": "Ayush ",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
