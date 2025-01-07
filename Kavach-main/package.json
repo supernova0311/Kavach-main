@@ -11,7 +11,7 @@
     "Women",
     "Security"
   ],
-  "author": "Ayush Raj",
+  "author": "Ayush Kumar",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
@@ -40,5 +40,6 @@
   "bugs": {
     "url": "https://github.com/hritikkhurana10sm/Rakshak/issues"
   },
-  "homepage": "https://github.com/hritikkhurana10sm/Rakshak#readme"
+  "homepage": "https://github.com/hritikkhurana10sm/Rakshak#readme",
+  "devDependencies": {}
 }

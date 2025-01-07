@@ -1,4 +1,4 @@
-# Rakshak
+<!-- # Rakshak
 This is full stack web application. The main idea of this application is provide ease of access to lodge a complaint in case of sexual harassment at workplace. Know the real time status of the complaint filed . Send "SOS e-mails" to added contacts with "LIVE LOCATION" of the user.
 
 ![COMPLAINTS](https://user-images.githubusercontent.com/56023805/180623579-8607f132-05be-4084-a86a-5ec9c6baee84.png)
@@ -16,6 +16,7 @@ This is full stack web application. The main idea of this application is provide
 </ul>
 
 # Rakshak Details
+
 
 <ul>
 <li>The website asks the user to Sign In or Create an account.</li>
@@ -56,4 +57,4 @@ This is full stack web application. The main idea of this application is provide
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+ -->
